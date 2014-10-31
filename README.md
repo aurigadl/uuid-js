@@ -36,7 +36,7 @@ var query = ...("select first 50 reversed ?..? from user_twits where key=?", [ r
 ```
 
 
-## Instalation
+## Installation
 
 ```
 $ npm install uuid-js
